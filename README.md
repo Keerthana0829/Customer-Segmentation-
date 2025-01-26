@@ -10,13 +10,13 @@ To get started with the project, ensure you have the following installed on your
   -Twilio account and API credentials for messaging integration
 
 # Table of Contents
-1. ## introduction
-2. ## project-overview
-3. ## dataset
+1. ## Introduction
+2. ## Project-overview
+3. ## Dataset
 4. ## Libraries-used
-5. ## methodology
+5. ## Methodology
 6. ## Twilio Integration 
-7. ## usage
+7. ## Usage
 
 
 # Introduction
