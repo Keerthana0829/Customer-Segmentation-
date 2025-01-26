@@ -2,24 +2,22 @@
 This project uses K-Means Clustering to segment customers based on their demographic and behavioral data, enabling businesses to tailor strategies for different customer groups.
 A key highlight of the project is the integration of Twilio, which allows sending personalized messages to customers in each cluster, enhancing customer communication and engagement.
 
-#Getting Started
-##Prerequisites
+# Getting Started
+## Prerequisites
 To get started with the project, ensure you have the following installed on your system:
   -Python 3.7 or higher
   -Required Python libraries
   -Twilio account and API credentials for messaging integration
 
 # Table of Contents
-1. ##introduction
-2. ##project-overview
-3. ##dataset
-4. ##Libraries-used
-5. ##methodology
-6. ##features
-7. ##results-and-insights
-8. ##usage
-9. ##contributing
-10. ##license
+1. ## introduction
+2. ## project-overview
+3. ## dataset
+4. ## Libraries-used
+5. ## methodology
+6. ## Twilio Integration 
+7. ## usage
+
 
 # Introduction
 This repository contains an ML-based project that utilizes K-Means clustering to segment customers for elevating restaurants. The goal of this project is to provide insights into customer behavior, preferences, and demographics, enabling restaurants to tailor their marketing strategies, improve customer satisfaction, and ultimately drive business growth.
